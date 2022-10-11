@@ -1,0 +1,16 @@
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\JSONSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\obj\Debug\JSONSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\Serialization.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\System.Text.Json.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\System.Memory.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\System.Buffers.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\bin\Debug\Serialization.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\obj\Debug\JSONSerializer.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete

@@ -1,0 +1,70 @@
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.AssemblyInfo.cs
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\ConsoleExample.exe
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\ConsoleExample.deps.json
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\ConsoleExample.runtimeconfig.json
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\ConsoleExample.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\ConsoleExample.dll
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\ref\ConsoleExample.dll
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\ConsoleExample.pdb
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\Domain.dll
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\Serialization.dll
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\Domain.pdb
+C:\Users\Илья\source\repos\ConsoleExample\bin\Debug\net5.0\Serialization.pdb
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.CopyComplete
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.dll
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ref\ConsoleExample.dll
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.pdb
+C:\Users\Илья\source\repos\ConsoleExample\obj\Debug\net5.0\ConsoleExample.genruntimeconfig.cache
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.exe
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.deps.json
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.runtimeconfig.json
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ref\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.pdb
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Domain.dll
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Serialization.dll
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Domain.pdb
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Serialization.pdb
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.AssemblyInfo.cs
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.CopyComplete
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ref\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.pdb
+C:\Users\Илья\source\repos\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.genruntimeconfig.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.exe
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.deps.json
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.runtimeconfig.json
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ref\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\ConsoleExample.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Domain.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Serialization.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Domain.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\Serialization.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.AssemblyInfo.cs
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.csproj.CopyComplete
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ref\ConsoleExample.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\obj\Debug\net5.0\ConsoleExample.genruntimeconfig.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\YamlDotNet.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\JSONSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\XMLSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\YAMLSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\JSONSerializer.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\XMLSerializer.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\ConsoleExample\bin\Debug\net5.0\YAMLSerializer.pdb

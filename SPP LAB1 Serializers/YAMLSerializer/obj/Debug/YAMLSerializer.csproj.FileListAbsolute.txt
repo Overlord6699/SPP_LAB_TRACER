@@ -1,0 +1,11 @@
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\obj\Debug\YAMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\obj\Debug\YAMLSerializer.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\bin\Debug\YAMLSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\bin\Debug\YAMLSerializer.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\bin\Debug\Serialization.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\bin\Debug\YamlDotNet.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\bin\Debug\Serialization.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\bin\Debug\YamlDotNet.xml
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\obj\Debug\YAMLSerializer.csproj.CopyComplete
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\obj\Debug\YAMLSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\YAMLSerializer\obj\Debug\YAMLSerializer.pdb

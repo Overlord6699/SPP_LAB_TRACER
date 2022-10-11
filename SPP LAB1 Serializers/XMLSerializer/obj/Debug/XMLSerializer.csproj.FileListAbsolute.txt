@@ -1,0 +1,11 @@
+C:\Users\Илья\source\repos\XMLSerializer\obj\Debug\XMLSerializer.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\XMLSerializer\obj\Debug\XMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\obj\Debug\XMLSerializer.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\obj\Debug\XMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\bin\Debug\XMLSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\bin\Debug\Serialization.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\bin\Debug\Serialization.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\obj\Debug\XMLSerializer.csproj.CopyComplete
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\obj\Debug\XMLSerializer.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1 Serializers\XMLSerializer\obj\Debug\XMLSerializer.pdb

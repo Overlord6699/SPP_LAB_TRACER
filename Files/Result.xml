@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<ArrayOfThreadData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ThreadData>
+    <ThreadID>1</ThreadID>
+    <Time>302</Time>
+    <Methods>
+      <MethodData>
+        <Class>E</Class>
+        <Name>MethodE</Name>
+        <Time>0</Time>
+        <Methods>
+          <MethodData>
+            <Class>F</Class>
+            <Name>MethodF</Name>
+            <Time>0</Time>
+            <Methods />
+          </MethodData>
+        </Methods>
+      </MethodData>
+      <MethodData>
+        <Class>A</Class>
+        <Name>MethodA</Name>
+        <Time>102</Time>
+        <Methods>
+          <MethodData>
+            <Class>B</Class>
+            <Name>MethodB</Name>
+            <Time>1</Time>
+            <Methods />
+          </MethodData>
+          <MethodData>
+            <Class>B</Class>
+            <Name>MethodB</Name>
+            <Time>1</Time>
+            <Methods />
+          </MethodData>
+        </Methods>
+      </MethodData>
+      <MethodData>
+        <Class>C</Class>
+        <Name>MethodC</Name>
+        <Time>200</Time>
+        <Methods>
+          <MethodData>
+            <Class>D</Class>
+            <Name>MethodD</Name>
+            <Time>50</Time>
+            <Methods />
+          </MethodData>
+          <MethodData>
+            <Class>D</Class>
+            <Name>MethodD</Name>
+            <Time>50</Time>
+            <Methods />
+          </MethodData>
+        </Methods>
+      </MethodData>
+    </Methods>
+  </ThreadData>
+  <ThreadData>
+    <ThreadID>5</ThreadID>
+    <Time>0</Time>
+    <Methods>
+      <MethodData>
+        <Class>E</Class>
+        <Name>MethodE</Name>
+        <Time>0</Time>
+        <Methods>
+          <MethodData>
+            <Class>F</Class>
+            <Name>MethodF</Name>
+            <Time>0</Time>
+            <Methods />
+          </MethodData>
+        </Methods>
+      </MethodData>
+    </Methods>
+  </ThreadData>
+</ArrayOfThreadData>

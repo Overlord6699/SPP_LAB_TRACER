@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXHEwcK3bOOGHhVaK8Fn/3dhlh2hW4T+NWM161gymU6h1fN4fdTEq9uqCVo0VE6JyPBcRHzPQs+t+w1sM2hnXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\ConsoleExample\\ConsoleExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Илья\\.nuget\\packages\\yamldotnet\\12.0.1\\yamldotnet.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

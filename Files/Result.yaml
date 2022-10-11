@@ -1,0 +1,46 @@
+- threadID: 1
+  time: 302
+  methods:
+  - class: E
+    name: MethodE
+    time: 0
+    methods:
+    - class: F
+      name: MethodF
+      time: 0
+      methods: []
+  - class: A
+    name: MethodA
+    time: 102
+    methods:
+    - class: B
+      name: MethodB
+      time: 1
+      methods: []
+    - class: B
+      name: MethodB
+      time: 1
+      methods: []
+  - class: C
+    name: MethodC
+    time: 200
+    methods:
+    - class: D
+      name: MethodD
+      time: 50
+      methods: []
+    - class: D
+      name: MethodD
+      time: 50
+      methods: []
+- threadID: 5
+  time: 0
+  methods:
+  - class: E
+    name: MethodE
+    time: 0
+    methods:
+    - class: F
+      name: MethodF
+      time: 0
+      methods: []

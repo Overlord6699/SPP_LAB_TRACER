@@ -1,0 +1,23 @@
+C:\Users\Илья\source\repos\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\Domain\bin\Debug\Domain.dll
+C:\Users\Илья\source\repos\Domain\bin\Debug\Domain.pdb
+C:\Users\Илья\source\repos\Domain\obj\Debug\Domain.dll
+C:\Users\Илья\source\repos\Domain\obj\Debug\Domain.pdb
+C:\Users\Илья\source\repos\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP LAB1\Domain\bin\Debug\Domain.dll
+C:\Users\Илья\source\repos\SPP LAB1\Domain\bin\Debug\Domain.pdb
+C:\Users\Илья\source\repos\SPP LAB1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP LAB1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP LAB1\Domain\obj\Debug\Domain.dll
+C:\Users\Илья\source\repos\SPP LAB1\Domain\obj\Debug\Domain.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\bin\Debug\Domain.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\bin\Debug\Domain.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\bin\Debug\YamlDotNet.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\bin\Debug\YamlDotNet.xml
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\obj\Debug\Domain.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\obj\Debug\Domain.pdb
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\bin\Debug\Serialization.dll
+C:\Users\Илья\source\repos\SPP\SPP LAB1\Domain\bin\Debug\Serialization.pdb

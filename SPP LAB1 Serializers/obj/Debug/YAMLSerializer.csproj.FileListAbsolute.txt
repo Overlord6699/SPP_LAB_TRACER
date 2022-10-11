@@ -1,0 +1,2 @@
+C:\Users\Илья\source\repos\Project1\obj\Debug\YAMLSerializer.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\Project1\obj\Debug\YAMLSerializer.csproj.CoreCompileInputs.cache

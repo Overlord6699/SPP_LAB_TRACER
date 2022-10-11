@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\ConsoleExample\\ConsoleExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\ConsoleExample\\ConsoleExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\ConsoleExample\\ConsoleExample.csproj",
+        "projectName": "ConsoleExample",
+        "projectPath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\ConsoleExample\\ConsoleExample.csproj",
+        "packagesPath": "C:\\Users\\Илья\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\ConsoleExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Илья\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Serialization\\Serialization.csproj": {
+                "projectPath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Serialization\\Serialization.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Domain\\Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Domain\\Domain.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Serialization\\Serialization.csproj": {
+                "projectPath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Serialization\\Serialization.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Serialization\\Serialization.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Serialization\\Serialization.csproj",
+        "projectName": "Serialization",
+        "projectPath": "C:\\Users\\Илья\\source\\repos\\SPP\\SPP LAB1\\Serialization\\Serialization.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}
